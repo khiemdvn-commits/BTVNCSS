@@ -6,7 +6,7 @@ header {
     background-color: rgb(136, 136, 243);/* màu nền */
 }
 nav {
-    background-color: rgb(44, 51, 253);
+    background-color: rgb(232, 179, 55);
 }
 main {
     background-color: rgb(186, 186, 240);
@@ -22,7 +22,7 @@ li {
 h1 {
     text-align: center;   /*căn chỉnh văn bản*/
     font-family: Georgia, serif;  /* phông chữ */
-    color: #c038dc;
+    color: #ea1111;
 }
 p {
     height: 50px;
